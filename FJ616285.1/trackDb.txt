@@ -174,7 +174,7 @@ track IE2F-N8-Ctrl_FW
 parent IE2F-N8-Ctrl
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_No_Flavo_Ctrl-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 Ctrl
 shortLabel IE2F N8 Ctrl
 negateValues off
@@ -188,7 +188,7 @@ track IE2F-N8-Ctrl_RV
 parent IE2F-N8-Ctrl
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_No_Flavo_Ctrl-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 Ctrl
 shortLabel IE2F N8 Ctrl
 negateValues on
@@ -212,7 +212,7 @@ track IE2F-N8-dTAG_FW
 parent IE2F-N8-dTAG
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-dTAG-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_No_Flavo_dTAG-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 dTAG
 shortLabel IE2F N8 dTAG
 negateValues off
@@ -226,7 +226,7 @@ track IE2F-N8-dTAG_RV
 parent IE2F-N8-dTAG
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_No_Flavo_dTAG-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 dTAG
 shortLabel IE2F N8 dTAG
 negateValues on
@@ -250,7 +250,7 @@ track IE2F-N8-Ctrl-Flavo_FW
 parent IE2F-N8-Ctrl-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_Ctrl-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 Ctrl Flavo
 shortLabel IE2F N8 Ctrl Flavo
 negateValues off
@@ -264,7 +264,7 @@ track IE2F-N8-Ctrl-Flavo_RV
 parent IE2F-N8-Ctrl-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_Ctrl-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 Ctrl Flavo
 shortLabel IE2F N8 Ctrl Flavo
 negateValues on
@@ -288,7 +288,7 @@ track IE2F-N8-dTAG-Flavo_FW
 parent IE2F-N8-dTAG-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-dTAG-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_dTAG-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 dTAG Flavo
 shortLabel IE2F N8 dTAG Flavo
 negateValues off
@@ -302,7 +302,7 @@ track IE2F-N8-dTAG-Flavo_RV
 parent IE2F-N8-dTAG-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_dTAG-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 dTAG Flavo
 shortLabel IE2F N8 dTAG Flavo
 negateValues on
