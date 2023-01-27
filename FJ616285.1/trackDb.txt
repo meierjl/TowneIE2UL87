@@ -479,7 +479,7 @@ track IE2F-N8-Ctrl1_FW
 parent IE2F-N8-Ctrl1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-NO-Flavo-Ctrl1-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-Ctrl1-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 Ctrl WT Sequence
 shortLabel IE2F N8 Ctrl WT Sequence
 negateValues off
