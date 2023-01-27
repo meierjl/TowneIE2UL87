@@ -517,7 +517,7 @@ track IE2F-N8-dTAG1_FW
 parent IE2F-N8-dTAG1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_No_Flavo_dTAG-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-dTAG1-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 dTAG WT Sequence
 shortLabel IE2F N8 dTAG WT Sequence
 negateValues off
@@ -531,7 +531,7 @@ track IE2F-N8-dTAG1_RV
 parent IE2F-N8-dTAG1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_No_Flavo_dTAG-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-No-Flavo-dTAG1-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 dTAG WT Sequence
 shortLabel IE2F N8 dTAG WT Sequence
 negateValues on
@@ -555,7 +555,7 @@ track IE2F-N8-Ctrl1-Flavo_FW
 parent IE2F-N8-Ctrl1-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_Ctrl-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-Ctrl1-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 Ctrl Flavo WT Sequence
 shortLabel IE2F N8 Ctrl Flavo WT Sequence
 negateValues off
@@ -569,7 +569,7 @@ track IE2F-N8-Ctrl1-Flavo_RV
 parent IE2F-N8-Ctrl1-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_Ctrl-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-Ctrl1-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 Ctrl Flavo WT Sequence
 shortLabel IE2F N8 Ctrl Flavo WT Sequence
 negateValues on
@@ -593,7 +593,7 @@ track IE2F-N8-dTAG1-Flavo_FW
 parent IE2F-N8-dTAG1-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_dTAG-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-dTAG1-dedup-FW-FJ616285.1.bw
 longLabel IE2F N8 dTAG Flavo WT Sequence
 shortLabel IE2F N8 dTAG Flavo WT Sequence
 negateValues off
@@ -607,7 +607,7 @@ track IE2F-N8-dTAG1-Flavo_RV
 parent IE2F-N8-dTAG1-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F_N8_Flavo_dTAG-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneIE2UL87/master/FJ616285.1/IE2UL87-PRO-Seq/IE2F-N8-Flavo-dTAG1-dedup-RV-FJ616285.1.bw
 longLabel IE2F N8 dTAG Flavo WT Sequence
 shortLabel IE2F N8 dTAG Flavo WT Sequence
 negateValues on
